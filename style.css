@@ -1,0 +1,20 @@
+body{
+    margin: 10px;
+    font-family: Arial;
+    font-size: 14px;
+}
+button {
+    margin: 5px;
+    margin-left: 0;
+}
+button:hover{
+    background: #832b5b;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+    border-color: #832b5b;
+}
+.number{
+    text-decoration: none;
+    color: black;
+}
